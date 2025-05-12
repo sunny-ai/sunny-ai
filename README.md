@@ -1,12 +1,9 @@
 ```bash
 $ Hi there, This is ' Abu Sayed Sunny ' ! 👋
 
-$ # Welcome to my GitHub! I am an IoT and Robotics Engineer passionate 
-$ # about blending technology with practical solutions to address 
-$ # real-world challenges. With a background in Computer Science and 
-$ # Engineering, I bring a mix of software and hardware skills, with 
-$ # projects spanning IoT safety solutions, precision agriculture, 
-$ # and smart robotics.
+$ # Welcome to my GitHub! I am an IoT and Robotics Engineer passionate about blending technology with practical solutions to address 
+$ # real-world challenges. With a background in Computer Science and Engineering, I bring a mix of software and hardware skills, with 
+$ # projects spanning IoT safety solutions, precision agriculture, and smart robotics.
 
 $ ' skills --technical ' 
 > Programming Languages   : C++, Python, PHP
