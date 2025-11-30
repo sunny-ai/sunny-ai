@@ -22,9 +22,9 @@ $ ' skills'
 
 
 $ ' connect --with_me '
-> Email                   : abusayedsunny01@gmail.com
-> LinkedIn                : https://www.linkedin.com/in/abu-sayed-sunny/
-> GitHub                  : https://github.com/sunny-ai
+> Email         : abusayedsunny01@gmail.com
+> LinkedIn      : https://www.linkedin.com/in/abu-sayed-sunny/
+> GitHub        : https://github.com/sunny-ai
 
 $ echo "Explore my repos, reach out for collaborations, or just say hello!"
 ```
